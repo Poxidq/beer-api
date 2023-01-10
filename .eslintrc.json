@@ -1,0 +1,20 @@
+{
+    "parserOptions": {
+        "ecmaVersion": 2020,
+        "experimentalObjectRestSpread": true,
+        "sourceType": "module"
+    },
+    "no-unused-vars": [
+        "error",
+        {
+            "argsIgnorePattern": "^_"
+        }
+    ],
+    "extends": [
+        "eslint:recommended"
+    ],
+    "env": {
+        "node": true,
+        "jest": true
+    }
+}
