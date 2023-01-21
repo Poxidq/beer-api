@@ -1,6 +1,6 @@
-# Node & Express Beer API Sample (using MySQL)
+# Beer API Sample
 
-##Ingredients: 
+## Ingredients: 
 * **mysql2**
 * **node & express**
 * **dotenv**
